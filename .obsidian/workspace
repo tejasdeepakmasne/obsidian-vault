@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "398b8e5621294a22",
+    "type": "split",
+    "children": [
+      {
+        "id": "8525882580ae6048",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ideas and Ideals/A common package manager.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b707d7d6e7de09a",
+    "type": "split",
+    "children": [
+      {
+        "id": "268bd46b6d91c51d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77881e570ad37b20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "07b98d75b2426386",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dd3784a003cc1cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "270d9d3777c3b850",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9e97fe3eed97a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cbebc553ae2621b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ideas and Ideals/A common package manager.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f17a02198562b0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ideas and Ideals/A common package manager.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df7294968e208bc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e501d3cca055db8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ideas and Ideals/A common package manager.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8525882580ae6048",
+  "lastOpenFiles": [
+    "Ideas and Ideals/Universal Secure ID.md",
+    "Ideas and Ideals/permanent index.md",
+    "Ideas and Ideals/A common package manager.md",
+    "attachments/images/Optional-dependency.png",
+    "Untitled.md",
+    "templates/Idea Template.md",
+    "Software/Package Managers.md",
+    "Operating Systems/Operating Systems.md",
+    "Ideas and Ideals/APP POOL - Common Software Application.md",
+    "Software/How Applications Work.md"
+  ]
+}

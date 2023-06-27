@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "398b8e5621294a22",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0e4d08a28da7157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75bb92d627098849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dialogue on scenarios/follows his journey through varanasi as a learned man helps him realise his own value and purpose in life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e099b2caf522212d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Report ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3924c5a462d0c60f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloudhub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b707d7d6e7de09a",
+    "type": "split",
+    "children": [
+      {
+        "id": "268bd46b6d91c51d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77881e570ad37b20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07b98d75b2426386",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8dd3784a003cc1cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f0e53aa0258135b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5
+  },
+  "right": {
+    "id": "270d9d3777c3b850",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9e97fe3eed97a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cbebc553ae2621b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Report ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f17a02198562b0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Report ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df7294968e208bc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e501d3cca055db8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Report ideas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "77881e570ad37b20",
+  "lastOpenFiles": [
+    "dialogue on scenarios/follows his journey through varanasi as a learned man helps him realise his own value and purpose in life.md",
+    "Report ideas.md",
+    "Untitled 1.canvas",
+    "Ideas and Ideals/A common package manager.md",
+    "Cloudhub.md",
+    "Agenda.md",
+    "Code for practice questions.md",
+    "Hero's Story.md",
+    "WhatsApp Image 2023-02-22 at 23.46.58.jpg",
+    "Untitled.canvas",
+    "programming/How internet works.md",
+    "Movie.md",
+    "programming/c++/Index for C++.md",
+    "programming/c++/Variable assignment and initialization.md",
+    "Software/software licences.md",
+    "Software/Presentation Software.md"
+  ]
+}

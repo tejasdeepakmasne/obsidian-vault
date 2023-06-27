@@ -1,0 +1,9 @@
+{
+  "interfaceFontFamily": "Fira Sans",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "Cascadia Mono,JetBrainsMono Nerd Font Mono",
+  "baseFontSize": 14,
+  "cssTheme": "Obsidian gruvbox",
+  "theme": "moonstone",
+  "accentColor": "#35b181"
+}

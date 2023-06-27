@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "vimMode": false,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB",
+    "hi"
+  ]
+}
